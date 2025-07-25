@@ -1,5 +1,5 @@
 # sunhuang - Personal Website
-[sunhuangindie.com](sunhuangindie.com)
+[sunhuangindie.com](www.sunhuangindie.com)
 
 [Google Doc](https://docs.google.com/document/d/1DQ2C0Se5AdzbU0lOrgbdU_yMEfaWcoVjfu6BYjgWWs4/edit?tab=t.0)
 
